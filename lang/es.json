@@ -67,7 +67,7 @@
 "grade": "Grado",
 "help": "Ayuda",
 "helpmelogin": "<p>Para iniciar sesión, por favor verifique que:</p>1. El sitio de Moodle es la versión 2.4 o superior.<br />2. El administrador del sitio Moodle ha habilitado el acceso móvil.<br /><br /><p>Para probar la aplicación en un sitio Moodle demo escribir<i>teacher</i> o <i>student</i> en el <i>Nombre de Usuario</i> campo y haga click en el <b>boton Añadir</b>.</p><p><a href='http://docs.moodle.org/en/Mobile_app' target='_blank'>Visite el sitio Web de documentación de Moodle para obtener información más detallada y ayuda.</a></p>",
-"icantlogin": "No puedo iniciar sesión",
+"icantlogin": "No puedo iniciar sesión!!!",
 "imagestored": "Su imagen se ha almacenado en su área privada",
 "info": "información",
 "initializing": "Inicializando...",
