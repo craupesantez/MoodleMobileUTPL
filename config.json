@@ -6,7 +6,7 @@
 "default_lang" : "es",
 "plugins" : ["notifications", "upload", "contents", "participants", "addcontact", "addnote", "sendmessage", "grades"],
 "wsservice" : "custommm_app",
-"presets" : {"url": "http://www.pcingenier.com/moodle/", "username": "craupesantez"},
+"presets" : {"url": "http://www.pcingenier.com/moodle/", "username": ""},
 "sync_ws_on" : true,
 "sync_lang_on" : true,
 "sync_css_on" : true,
