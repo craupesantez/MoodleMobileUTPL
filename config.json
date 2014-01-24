@@ -5,7 +5,7 @@
 "cache_expiration_time" : 300000,
 "default_lang" : "es",
 "plugins" : ["notifications", "upload", "contents", "participants", "addcontact", "addnote", "sendmessage", "grades"],
-"wsservice" : "custommm_app",
+"wsservice" : "moodle_mobile_app",
 "presets" : {"url": "http://www.pcingenier.com/moodle/", "username": ""},
 "sync_ws_on" : true,
 "sync_lang_on" : true,

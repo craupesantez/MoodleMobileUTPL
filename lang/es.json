@@ -129,7 +129,7 @@
 "siteexists": "Este sitio ya existe.",
 "sitename": "Nombre del sitio",
 "sites": "Sitios",
-"siteurl": "URL del sitio",
+"siteurl": "http://www.pcingenier.com/moodle/",
 "siteurllabel": "URL del sitio",
 "siteurlrequired": "URL del sitio requerido, i.e <i>http://www.yourmoodlesite.abc or https://www.yourmoodlesite.efg</i>",
 "stop": "Pare",
