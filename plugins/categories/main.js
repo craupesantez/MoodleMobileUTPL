@@ -1,7 +1,7 @@
 var templates = [
-    "root/externallib/text!root/plugins/grades/activities.html",
-    "root/externallib/text!root/plugins/grades/activitygrade.html",
-    "root/externallib/text!root/plugins/grades/lang/es.json"
+    "root/externallib/text!root/plugins/categories/activities.html",
+    "root/externallib/text!root/plugins/categories/activitygrade.html",
+    "root/externallib/text!root/plugins/categories/lang/es.json"
 ];
 
 define(templates,function (activities, activityGrade, langStrings) {
